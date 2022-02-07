@@ -1,4 +1,5 @@
-<img align="right" alt="Code Sleep Repeat" width="400" https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F3369400%2F133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg&imgrefurl=https%3A%2F%2Fgithub.com%2Fgithub&tbnid=IOLsmwd_8Go6bM&vet=12ahUKEwixnJ_vye31AhW_H7cAHYiwBO8QMygNegUIARDrAQ..i&docid=1MwELWT1mZ4siM&w=2000&h=800&q=picture%20for%20github&ved=2ahUKEwixnJ_vye31AhW_H7cAHYiwBO8QMygNegUIARDrAQ"
+<img align="right" alt="Code Sleep Repeat" width="400"![image](https://user-images.githubusercontent.com/87750349/152788252-5fbc47e1-f2a4-4297-af7e-bea7954bc901.png)
+ 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate web developer looking for opportunities in working with top-tech giants.</h3>
 
