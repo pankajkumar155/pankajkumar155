@@ -1,4 +1,4 @@
-<img align="right" alt="Code Sleep Repeat" width="400" src="<img src="https://www.wallpapertip.com/wmimgs/160-1604579_web-development.jpg">
+<img src="<img src="https://www.wallpapertip.com/wmimgs/160-1604579_web-development.jpg">
  
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate web developer looking for opportunities in working with top-tech giants.</h3>
